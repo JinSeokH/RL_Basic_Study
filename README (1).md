@@ -9,6 +9,7 @@ Chap 11 종료 후 리뷰(2)
 ## 발표 내용
 
 |챕터|링크|
+|---|---|---|
 |Chapter1|[강화학습이란](https://velog.io/@seokjinhong/바닥부터-배우는-강화학습1)|
 |Chapter2|[마르코프 결정 프로세스](https://velog.io/@seokjinhong/바닥부터-배우는-강화학습2)|
 |Chapter3|[벨만방정식](https://velog.io/@seokjinhong/바닥부터-배우는-강화학습3)|
